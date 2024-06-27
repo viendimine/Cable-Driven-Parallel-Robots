@@ -1,1 +1,1 @@
-# Cable-Driven-Parallel-Robots
+# Cable-Driven Parallel Robots
